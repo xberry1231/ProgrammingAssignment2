@@ -3,7 +3,7 @@
 ## inverse will be computed.
 
 
-## This function sets elements value of the matrix, gets the elements of the matrix, sets the elements of the inverse
+## This function sets elements of the matrix, gets the elements of the matrix, sets the elements of the inverse
 ## of the matrix, and gets the elements of the inverse of the matrix. 
 
 makeCacheMatrix <- function(x = matrix()) {
